@@ -3,4 +3,4 @@
 
 {"descriptionCam":"Africa Gospel est une chaîne télévisée de la musique chrétienne qui diffuse des musiques africaine et internationales","sourceCam":["http://connectiktv.ddns.me:8080/live/61f633c3bae59-1/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yNzEyMTUwNDRf/africagospel.jpg","titleCam":"AFRICA GOSPEL TV"},
 
-{"descriptionCam":"Leader Gospel est une chaîne télévisée chrétienne qui diffuse des musiques chrétienne africaine et d'ailleurs","sourceCam":["http://connectiktv.ddns.me:8080/live/61f633c3bae59-1/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODYyMTQxOTdf/Tracegospels.jpeg","titleCam":"LEADER GOSPEL TV"}]}]}
+{"descriptionCam":"Leader Gospel est une chaîne télévisée chrétienne qui diffuse des musiques chrétienne africaine et d'ailleurs","sourceCam":["http://connectiktv.ddns.me:8080/live/61f633c3bae59-1/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODgxNTg0ODNf/Leadergospel.jpg","titleCam":"LEADER GOSPEL TV"}]}]}
